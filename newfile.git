@@ -1,0 +1,3 @@
+new commit file
+git confing --global user.name "Chiara"
+git confing --global user.email "chiarye38@gmail.com"
